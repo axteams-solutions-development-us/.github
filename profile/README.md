@@ -1,5 +1,3 @@
-# axteams-solutions-development-us
-
 Welcome to the GitHub organization page for the US Solutions Development team!
 
 The US Solutions Development team focuses on (among other things)
