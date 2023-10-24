@@ -7,7 +7,13 @@
 
 ## Our Current Approach
 * Make repositories.  They're free.
-* Repository names and descriptions should contain clues as to what kind of software the repository contains.  ACAP, Component, Example, Tests, so on.  For example, if you are making an airplane tracker ACAP, a good repo name would be ```acap-airplane-tracker```
+* Repository names should be lowercase
+* Repository names and descriptions should contain clues as to what kind of software the repository contains.  ACAP, Component, Example, Tests, so on.
+  * Examples
+    * if you are making an airplane tracker ACAP, a good repo name would be ```acap-airplane-tracker```
+    * if you are making a python example that interacts with VAPIX, a nice name would be ```example-python-vapix```
+    * ```tools-slabsuite```
+    * ```component-google-maps```
 
 
 If you have questions / comments / concerns about this organization or require access to a resource, please contact the organization owners.
