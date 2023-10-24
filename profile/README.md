@@ -6,6 +6,7 @@
 * Being ambassadors on what can be done beyond the datasheet to Axians and customers alike
 
 ## Our Current Approach
+* This approach is subject to change.
 * Make repositories.  They're free.
 * Repository names should be lowercase
 * Repository names and descriptions should contain clues as to what kind of software the repository contains.  ACAP, Component, Example, Tests, so on.
