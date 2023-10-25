@@ -15,6 +15,7 @@
     * if you are making a python example that interacts with VAPIX, a nice name would be ```example-python-vapix```
     * ```tools-slabsuite```
     * ```component-google-maps```
+    * ```test-acs-component``` for an integration test that runs on an acs component
 
 
 If you have questions / comments / concerns about this organization or require access to a resource, please contact the organization owners.
